@@ -1,24 +1,40 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub followers](https://img.shields.io/github/followers/adriannapedron?style=for-the-badge&logo=github)](https://github.com/adriannapedron)
+[![GitHub User's stars](https://img.shields.io/github/stars/adriannapedron?style=for-the-badge)](https://github.com/adriannapedron?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=adriannapedron&label=Profile%20views&color=brightgreen)](https://github.com/adriannapedron)
+[![MLH Member](https://img.shields.io/badge/MLH-Student%20Hacker-0A0A0A?style=for-the-badge&logo=mlh)](https://mlh.io/)
+[![Hackathons](https://img.shields.io/badge/Hackathons-2024%20%2B-7B68EE?style=for-the-badge)](https://mlh.io/events)
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+# Hi, I'm Adrianna Pedron 👋
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I'm a software engineering student passionate about building creative, useful, and user-friendly projects. I enjoy learning new technologies, solving real-world problems, and turning ideas into interactive experiences.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- GitHub: [@adriannapedron](https://github.com/adriannapedron)
+- Location: Madison Heights, MI
+- Education: Oakland Community College
+- Hacking since: 2024
+- Languages: HTML, CSS, JavaScript, Java, SQL, and Python
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## About Me
+I have built several projects through coursework and personal exploration, with a focus on practical software design and problem solving. I enjoy working across front-end, back-end, and data-focused development while continuing to grow as a developer.
+
+## Tech Stack
+- Front-end: HTML, CSS, JavaScript
+- Back-end / Data: Java, SQL, Python
+- Interests: web development, databases, game development, and software engineering
+
+## Featured Work
+- Creative and interactive web projects
+- Database-driven applications and CRUD workflows
+- Small game and app prototypes
+
+## MLH / Hacker Community
+I am active in the MLH community and enjoy participating in hackathons, building projects with others, and learning through hands-on collaboration.
+
+- MLH: [Major League Hacking](https://mlh.io/)
+- Events: [mlh.io/events](https://mlh.io/events)
+
+## Connect
+- GitHub: [github.com/adriannapedron](https://github.com/adriannapedron)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
